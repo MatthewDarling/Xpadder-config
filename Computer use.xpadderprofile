@@ -1,0 +1,52 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.05.01
+
+[Profile Settings]
+
+[Set Settings]
+Set1StickDeadZones=37,64
+
+[Assignments]
+Set1Button1Slots=Left Control,T
+Set1Button1RumbleStrengths=51,0
+Set1Button2Slots=Left Control,Left Shift,T
+Set1Button2RumbleStrengths=154,154
+Set1Button3Slots=Left Control,Equals
+Set1Button3RumbleStrengths=53,51
+Set1Button4Slots=Left Control,W
+Set1Button4RumbleStrengths=90,90
+Set1Button5Slots=Left Control,Left Shift,Tab
+Set1Button6Slots=Left Control,Tab
+Set1Button8Slots=Alt,Tab,RELEASE ZONE 0.01s,TAP TIME 0.25s,Alt
+Set1Button8Turbo=1
+Set1Button8TurboRate=25
+Set1Button9Slots=Middle Mouse Button (3)
+Set1Button10Slots=Middle Mouse Button (3)
+Set1DPadUpSlots=Mouse Wheel Up
+Set1DPadUpTurbo=1
+Set1DPadUpTurboRate=2
+Set1DPadUpMouseSpeed=32
+Set1DPadRightSlots=Alt,Arrow Right
+Set1DPadDownSlots=Mouse Wheel Down
+Set1DPadDownTurbo=1
+Set1DPadDownTurboRate=2
+Set1DPadLeftSlots=Alt,Arrow Left
+Set1Stick1UpSlots=Mouse Move Up
+Set1Stick1UpMouseSpeed=100
+Set1Stick1RightSlots=Mouse Move Right
+Set1Stick1RightMouseSpeed=100
+Set1Stick1DownSlots=Mouse Move Down
+Set1Stick1DownMouseSpeed=100
+Set1Stick1LeftSlots=Mouse Move Left
+Set1Stick1LeftMouseSpeed=100
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=53
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=53
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=53
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=53
+Set1TriggerLeftSlots=Left Mouse Button (1)
+Set1TriggerRightSlots=Right Mouse Button (2)
